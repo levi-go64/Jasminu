@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				82,
+				349
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Jasminu LEFT0"
+		},
+		{
+			"offsets": [
+				77,
+				349
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Jasminu RIGHT0"
+		},
+		{
+			"offsets": [
+				84,
+				354
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Jasminu UP0"
+		},
+		{
+			"offsets": [
+				60,
+				352
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Jasminu DOWN0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				349
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Jasminu LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				351
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Jasminu DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				356
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Jasminu UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				350
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Jasminu RIGHT MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Jasminu IDLE0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/PLAYABLE_GL2Jasminu",
+	"position": [
+		100,
+		600
+	],
+	"healthicon": "jasminu",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		120,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
