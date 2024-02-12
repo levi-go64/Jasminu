@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"purple-girl",
+			"jasminu",
+			[
+				106,
+				73,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"jasminu",
+		""
+	],
+	"storyName": "Jasminu one shot",
+	"weekName": "jasminu",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
