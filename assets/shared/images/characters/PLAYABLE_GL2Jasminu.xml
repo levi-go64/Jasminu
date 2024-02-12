@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PLAYABLE_GL2Jasminu.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Jasminu IDLE0000" x="1810" y="0" width="351" height="589" frameX="-25" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu IDLE0001" x="1810" y="0" width="351" height="589" frameX="-25" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu IDLE0002" x="740" y="0" width="355" height="590" frameX="-29" frameY="1" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu IDLE0003" x="740" y="0" width="355" height="590" frameX="-29" frameY="1" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu IDLE0004" x="1453" y="0" width="357" height="586" frameX="-27" frameY="-2" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu IDLE0005" x="1453" y="0" width="357" height="586" frameX="-27" frameY="-2" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu IDLE0006" x="710" y="1169" width="352" height="589" frameX="-25" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu IDLE0007" x="710" y="1169" width="352" height="589" frameX="-25" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu IDLE0008" x="1810" y="0" width="351" height="589" frameX="-25" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT0000" x="1062" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT0001" x="1062" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT0002" x="2161" y="0" width="350" height="587" frameX="-44" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT0003" x="2161" y="0" width="350" height="587" frameX="-44" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT0004" x="1062" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT0005" x="1062" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT0006" x="2161" y="0" width="350" height="587" frameX="-44" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0000" x="2161" y="0" width="350" height="587" frameX="-44" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0001" x="1062" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0002" x="1416" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0003" x="1416" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0004" x="1810" y="589" width="350" height="587" frameX="-44" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0005" x="1810" y="589" width="350" height="587" frameX="-44" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0006" x="1416" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0007" x="1416" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0008" x="1416" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0009" x="1416" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0010" x="1416" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0011" x="1416" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0012" x="1416" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0013" x="1416" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0014" x="1416" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu LEFT MISS0015" x="1416" y="1169" width="354" height="585" frameX="-45" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN0000" x="370" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN0001" x="370" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN0002" x="0" y="584" width="368" height="585" frameX="-27" frameY="-4" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN0003" x="0" y="584" width="368" height="585" frameX="-27" frameY="-4" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN0004" x="370" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN0005" x="370" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN0006" x="0" y="584" width="368" height="585" frameX="-27" frameY="-4" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN0007" x="0" y="584" width="368" height="585" frameX="-27" frameY="-4" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0000" x="370" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0001" x="0" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0002" x="0" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0003" x="368" y="584" width="368" height="585" frameX="-27" frameY="-4" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0004" x="368" y="584" width="368" height="585" frameX="-27" frameY="-4" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0005" x="0" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0006" x="0" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0007" x="0" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0008" x="0" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0009" x="0" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0010" x="0" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0011" x="0" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0012" x="0" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0013" x="0" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu DOWN MISS0014" x="0" y="0" width="370" height="584" frameX="-29" frameY="-5" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP0000" x="2161" y="587" width="322" height="594" frameX="-35" frameY="1" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP0001" x="2161" y="587" width="322" height="594" frameX="-35" frameY="1" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP0002" x="0" y="1758" width="322" height="593" frameX="-39" frameY="1" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP0003" x="0" y="1758" width="322" height="593" frameX="-39" frameY="1" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP0004" x="2161" y="587" width="322" height="594" frameX="-35" frameY="1" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP0005" x="2161" y="587" width="322" height="594" frameX="-35" frameY="1" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP0006" x="0" y="1758" width="322" height="593" frameX="-39" frameY="1" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP0007" x="0" y="1758" width="322" height="593" frameX="-39" frameY="1" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0000" x="2161" y="587" width="322" height="594" frameX="-35" frameY="1" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0001" x="322" y="1758" width="322" height="593" frameX="-34" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0002" x="322" y="1758" width="322" height="593" frameX="-34" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0003" x="644" y="1758" width="322" height="593" frameX="-39" frameY="1" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0004" x="644" y="1758" width="322" height="593" frameX="-39" frameY="1" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0005" x="322" y="1758" width="322" height="593" frameX="-34" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0006" x="322" y="1758" width="322" height="593" frameX="-34" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0007" x="322" y="1758" width="322" height="593" frameX="-34" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0008" x="322" y="1758" width="322" height="593" frameX="-34" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0009" x="322" y="1758" width="322" height="593" frameX="-34" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0010" x="322" y="1758" width="322" height="593" frameX="-34" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0011" x="322" y="1758" width="322" height="593" frameX="-34" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0012" x="322" y="1758" width="322" height="593" frameX="-34" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0013" x="322" y="1758" width="322" height="593" frameX="-34" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu UP MISS0014" x="322" y="1758" width="322" height="593" frameX="-34" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT0000" x="355" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT0001" x="355" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT0002" x="1095" y="0" width="358" height="585" frameX="-53" frameY="-3" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT0003" x="1095" y="0" width="358" height="585" frameX="-53" frameY="-3" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT0004" x="355" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT0005" x="355" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT0006" x="1095" y="0" width="358" height="585" frameX="-53" frameY="-3" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT0007" x="1095" y="0" width="358" height="585" frameX="-53" frameY="-3" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0000" x="355" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0001" x="0" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0002" x="0" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0003" x="1095" y="585" width="358" height="584" frameX="-53" frameY="-3" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0004" x="1095" y="585" width="358" height="584" frameX="-53" frameY="-3" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0005" x="0" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0006" x="0" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0007" x="0" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0008" x="0" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0009" x="0" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0010" x="0" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0011" x="0" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0012" x="0" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0013" x="0" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+	<SubTexture name="Jasminu RIGHT MISS0014" x="0" y="1169" width="355" height="589" frameX="-51" frameY="0" frameWidth="411" frameHeight="591"/>
+</TextureAtlas>
